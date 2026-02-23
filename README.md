@@ -69,5 +69,5 @@ ReWear-Community-Clothing-Exchange/
 ├── server/   # Node.js/Express backend
 └── README.md
 ```
----
+
 **Enjoy swapping and saving the planet with ReWear!**
